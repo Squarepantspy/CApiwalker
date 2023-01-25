@@ -1,0 +1,25 @@
+*{
+  margin:0;
+  padding:0;
+}
+h1{
+  color: white;
+}
+h2{
+  color: yellow
+}
+span{
+  color : cyan;
+}
+.card{
+  background-color: transparent;
+}
+h5{
+  color: yellow;
+}
+.form{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap:20px;
+}
